@@ -76,6 +76,8 @@ class Person
       self.happiness += 3
     end
     
+    
+    
     # def word_out
     #   @word_out
     # end
