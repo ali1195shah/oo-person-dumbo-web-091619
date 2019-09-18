@@ -72,6 +72,8 @@ class Person
       return "♪ another one bites the dust ♫"
     end
     
+    
+    
     # def word_out
     #   @word_out
     # end
