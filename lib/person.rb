@@ -72,8 +72,8 @@ class Person
       return "♪ another one bites the dust ♫"
     end
     
-    def call_friend(topic)
-      @happiness += 3
+    def call_friend(num)
+      happiness += num
     end
     
     # def word_out
