@@ -73,7 +73,6 @@ class Person
     end
     
     
-    
     # def word_out
     #   @word_out
     # end
