@@ -72,10 +72,10 @@ class Person
       return "♪ another one bites the dust ♫"
     end
     
-    def call_friend(num)
+    def call_friend(person)
       self.happiness += 3
-      num.happiness += 3
-      
+      person.happiness += 3
+      return
     end
     
     
