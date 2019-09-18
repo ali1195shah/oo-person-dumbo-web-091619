@@ -79,7 +79,7 @@ class Person
     end
     
     def start_conversation(person, topic)
-      return 
+      return "blah blah partisan blah lobbyist"
     end
     
     # def word_out
