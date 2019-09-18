@@ -74,7 +74,7 @@ class Person
     
     def call_friend(num)
       self.happiness += 3
-      person_instance.happiness += 3
+      num += 3
     end
     
     
