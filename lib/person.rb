@@ -64,7 +64,12 @@ class Person
     def take_bath
       self.hygiene += 4
       return "♪ Rub-a-dub just relaxing in the tub ♫"
-
+    end
+    
+    def word_out
+      self.hygiene -= 3 
+      self.happiness += 2
+      return 
     end
     
     # def word_out
