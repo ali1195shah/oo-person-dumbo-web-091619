@@ -73,12 +73,13 @@ class Person
     end
     
     def call_friend(person)
-    self.happiness += 3
-    person.happiness += 3
-    "Hi #{person.name}! It's #{self.name}. How are you?"
-  end
+      self.happiness += 3
+      person.happiness += 3
+      "Hi #{person.name}! It's #{self.name}. How are you?"
+    end
     
-    
+    def 
+    end
     
     # def word_out
     #   @word_out
