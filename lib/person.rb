@@ -73,7 +73,7 @@ class Person
     end
     
     def call_friend(num)
-      happiness += num
+      happiness += 3
     end
     
     # def word_out
