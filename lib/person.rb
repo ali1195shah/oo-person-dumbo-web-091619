@@ -69,7 +69,7 @@ class Person
     def word_out
       self.hygiene -= 3 
       self.happiness += 2
-      return 
+      return "♪ another one bites the dust ♫"
     end
     
     # def word_out
